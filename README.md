@@ -1,4 +1,5 @@
 Variables Declaration
+
 •	ledPins[]: An array that holds the pin numbers {12, 11, 10, 9, 8} where the LEDs are connected.
 •	numLEDs: A variable that stores the total number of LEDs (5), making the code scalable if the number of LEDs changes.
 Setup Function
