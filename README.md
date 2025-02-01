@@ -1,3 +1,8 @@
+
+
+![1](https://github.com/user-attachments/assets/d124f6e6-caab-4e98-9608-7f1ad04d56fc)
+
+
 Variables Declaration
 
   •	ledPins[]: An array that holds the pin numbers {12, 11, 10, 9, 8} where the LEDs are connected.
